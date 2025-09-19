@@ -8,6 +8,33 @@
 
 ---
 
+## 💻 System & Virtual Machine Configuration  
+
+To ensure optimal performance, I configured my VM with these specs:  
+
+| Specification      | Details        |  
+|--------------------|----------------|  
+| 🖥️ Operating System  | Ubuntu 20.04+  |  
+| 💾 RAM              | 6 GB           |  
+| 📦 Storage          | 50 GB HDD      |  
+| ⚡ vCPUs            | 4              |  
+
+> 💡 **Pro Tip:** This setup ensures smooth operation of synthesis, simulation, and waveform tasks.
+
+---
+
+## 🛠️ Installed Tools & Verification Status  
+
+| Tool               | Purpose                          | Status         |  
+|--------------------|----------------------------------|----------------|  
+| 🧠 **Yosys**         | RTL Synthesis & Logic Optimization | 🟢 Verified  |  
+| 📟 **Icarus Verilog**  | Verilog Simulation & Compilation  | 🟢 Verified  |  
+| 📊 **GTKWave**       | Waveform Viewing & Analysis        | 🟢 Verified  |  
+
+---
+
+---
+
 ## 📌 Overview  
 This guide documents the **installation of essential VLSI tools** for RTL design, synthesis, simulation, and waveform visualization on **Ubuntu**.  
 
@@ -92,3 +119,4 @@ With this, I successfully completed the installation of:
 - 📊 **GTKWave** for waveform visualization  
 
 ✨  *Task Completed ✅*   ✨  
+
