@@ -16,7 +16,7 @@ To ensure optimal performance, I configured my VM with these specs:
 |--------------------|----------------|  
 | 🖥️ Operating System  | Ubuntu 20.04+  |  
 | 💾 RAM              | 6 GB           |  
-| 📦 Storage          | 50 GB HDD      |  
+| 📦 Storage          | 50 GB HDD/SSD      |  
 | ⚡ vCPUs            | 4              |  
 
 > 💡 **Pro Tip:** This setup ensures smooth operation of synthesis, simulation, and waveform tasks.
@@ -118,5 +118,6 @@ With this, I successfully completed the installation of:
 - 📊 **GTKWave** for waveform visualization  
 
 ✨  *Task Completed ✅*   ✨  
+
 
 
