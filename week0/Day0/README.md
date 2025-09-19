@@ -81,7 +81,8 @@ sudo make install
 ```bash
 yosys -V
 ```
-![Yosys Installed](week0/day0/images/yosys_installation.jpg)
+![Yosys Installed](./images/yosys_installation.jpg)
+<p align="center">Installation Verified ✅</p>
 
 ---
 
@@ -94,7 +95,8 @@ sudo apt-get install -y iverilog
 ```bash
 iverilog -V
 ```
-![Icarus Verilog Installed](week0/day0/images/iverilog_installation.jpg)
+![Icarus Verilog Installed](./images/iverilog_installation.jpg)
+<p align="center">Installation Verified ✅</p>
 
 ---
 
@@ -107,7 +109,8 @@ sudo apt-get install -y gtkwave
 ```bash
 gtkwave --version
 ```
-![GTKWave Installed](week0/day0/images/gtkwave_installation.jpg)
+![GTKWave Installed](./images/gtkwave_installation.jpg)
+<p align="center">Installation Verified ✅</p>
 
 ---
 
@@ -118,6 +121,7 @@ With this, I successfully completed the installation of:
 - 📊 **GTKWave** for waveform visualization  
 
 ✨  *Task Completed ✅*   ✨  
+
 
 
 
