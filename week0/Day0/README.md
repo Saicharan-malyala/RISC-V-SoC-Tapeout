@@ -33,7 +33,6 @@ To ensure optimal performance, I configured my VM with these specs:
 
 ---
 
----
 
 ## 📌 Overview  
 This guide documents the **installation of essential VLSI tools** for RTL design, synthesis, simulation, and waveform visualization on **Ubuntu**.  
@@ -119,4 +118,5 @@ With this, I successfully completed the installation of:
 - 📊 **GTKWave** for waveform visualization  
 
 ✨  *Task Completed ✅*   ✨  
+
 
